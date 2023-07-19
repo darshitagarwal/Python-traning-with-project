@@ -50,7 +50,8 @@ class Calculator:
             print(c," is an even number")
         else:
             print(c," is an odd number")
-Calculator   
+Calculator
+
 
 
  
